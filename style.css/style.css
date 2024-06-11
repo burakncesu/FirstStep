@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+}
+.container,
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.head1 {
+  color: #ff0000;
+}
+.head2 {
+  color: #800080;
+}
+.head3 {
+  text-align: center;
+  color: #cece00;
+}
+.head4 {
+  color: #cece00;
+}
+.link {
+  margin: 10px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+}
