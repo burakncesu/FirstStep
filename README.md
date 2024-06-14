@@ -1,4 +1,4 @@
-# Benim İkinci Website Deneyimim
+# Benim İlk Website Deneyimim
 -Bu proje, web geliştirme yolculuğumun ilk adımlarını atmamı temsil ediyor. Basit HTML ve CSS kullanarak, müzik aletleri satan sade bir site oluşturmayı hedefledim.
 
 ## Proje Hakkında
